@@ -1,0 +1,29 @@
+body{
+  background-color: #e3fdfd;
+}
+.login-form{
+  text-align: center;
+  background-color: white;
+  margin-top: 28px;
+  padding: 150px 1px;
+  width: 85%;
+}
+.blogging{
+  margin-top: -100px;
+  margin-bottom: 100px;
+  font-family: 'Balsamiq Sans', cursive;
+}
+.login-label{
+  font-family: 'Poppins', sans-serif;
+  color: grey;
+  margin-bottom: 7px;
+  margin-top: 7px;
+  font-size: 1.1rem;
+}
+.form-control{
+  width: 70%;
+  margin: auto;
+}
+.login-button{
+  margin-top: 20px;
+}
