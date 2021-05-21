@@ -1,5 +1,6 @@
 body{
-  background-color: #e3fdfd;
+  /*background-color: #e3fdfd;*/
+  background-color: #faf2da;
 }
 .login-form{
   text-align: center;
@@ -29,4 +30,11 @@ body{
 }
 .index-main-image{
   margin-top: 5%;
+}
+.index-middle-section-text{
+  text-align: center;
+  margin-top: 50px;
+}
+.middle-section-image{
+  margin: 50px 10px 50px 0px;
 }
