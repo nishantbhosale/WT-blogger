@@ -4,12 +4,13 @@ body{
 }
 .login-form{
   text-align: center;
-  background-color: white;
+  background-color: #e2d5d5;
   margin-top: 28px;
   padding: 150px 1px;
   width: 85%;
 }
 .blogging{
+  color: #810034;
   margin-top: -100px;
   margin-bottom: 100px;
   font-family: 'Balsamiq Sans', cursive;
